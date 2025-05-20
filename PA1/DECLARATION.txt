@@ -1,0 +1,12 @@
+                CSE 260 - Fall 2024 - Assignment #1
+                University of California, San Diego
+                Computer Science and Eingeering Department
+
+The undersigned declare that the work performed on this assignment was
+their own, and was carried out according to the Academic Integrity
+policies in effect for this course:
+https://sites.google.com/eng.ucsd.edu/cse260fall2022/academic-integrity
+
+Signed,
+        Sarah Yang (sxyang@ucsd.edu) [10/24/24]
+        Jensen Chang (yec019@ucsd.edu) [10/24/24]
