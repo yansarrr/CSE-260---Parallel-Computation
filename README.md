@@ -1,9 +1,4 @@
 
-# CSE 260 Programming Assignments - Sarah Yang
-
-This repository contains my implementations and reports for the three core programming assignments in CSE 260: Parallel Computation at UC San Diego. Each project demonstrates different aspects of high-performance computing, from SIMD optimizations to GPU tiling and distributed memory parallelism with MPI.
-
----
 
 ## PA1: SIMD-Optimized Matrix Multiplication
 
